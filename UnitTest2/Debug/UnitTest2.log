@@ -1,0 +1,3 @@
+﻿     Creating library D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1E(OOP)\Debug\UnitTest2.lib and object D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1E(OOP)\Debug\UnitTest2.exp
+UnitTest2.obj : error LNK2019: unresolved external symbol "public: __thiscall Object::Object(void)" (??0Object@@QAE@XZ) referenced in function "public: __thiscall LongLong::LongLong(class LongLong const &)" (??0LongLong@@QAE@ABV0@@Z)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1E(OOP)\Debug\UnitTest2.dll : fatal error LNK1120: 1 unresolved externals
